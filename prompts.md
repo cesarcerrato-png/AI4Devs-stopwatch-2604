@@ -1,0 +1,1 @@
+Tengo que hacer un stopwatch en un archivo index.html apoyando la logica en un archivo script.js, generamelo dentro de una carpeta stopwatch-ccj. El diseño y funcionalidad esta en el png aportado, el cual tiene 2 botones para empezar y otor de limpiar. El contador es un input editable pero con mascara de hiras, minutos y segundos, y en pequeño milesimas
